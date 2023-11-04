@@ -1,4 +1,3 @@
-d
 import json
 import pyrogram
 from pyrogram import filters
